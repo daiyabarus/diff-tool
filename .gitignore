@@ -25,6 +25,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+pojo_maker_lower.py
+Pipfile
+Pipfile.lock
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
